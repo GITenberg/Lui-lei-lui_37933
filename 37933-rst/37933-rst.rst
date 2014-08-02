@@ -1,0 +1,2427 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 37933
+   :PG.Title: Lui lei lui
+   :PG.Released: 2011-11-05
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Claudio Paganelli
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Lui lei lui
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. style:: block_quote
+   :class: small
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+===========
+Lui lei lui
+===========
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: Lui lei lui
+      
+      Author: Roberto Bracco
+      
+      Release Date: November 05, 2011 [EBook #37933]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK LUI LEI LUI \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Claudio Paganelli, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME PRIMO`
+   |
+   | NON FARE AD ALTRI... — **LUI LEI LUI** —
+   | UN'AVVENTURA DI VIAGGIO — UNA DONNA —
+   | LE DISILLUSE — DOPO IL VEGLIONE
+   |
+   | :small:`2ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   |
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI`
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare questi lavori
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Published in Palermo, 10th. June Privilege of Copyright in the United
+			States reserved under the Act approved March 3rd. 1905, by Roberto Bracco
+			and Remo Sandron.
+
+			Off. Tip. Sandron — 126 — I — 290312.
+
+-----
+
+.. clearpage::
+
+.. class:: center
+
+| :x-large:`LUI LEI LUI.`
+|
+| :largeit:`Commedia in un atto.`
+
+rappresentata per la prima volta al *Sannazaro*
+di *Napoli*, dalla Compagnia :small-caps:`Pasta`, nel 1887.
+
+[pg!48]
+
+.. clearpage::
+
+[pg!49]
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | :small-caps:`Giulio`.
+   | :small-caps:`Clotilde`, sua moglie.
+   | :small-caps:`Federico`.
+   | :small-caps:`Domenico`, servo.
+   |
+   | Epoca attuale.
+
+[pg!50]
+
+[pg!51]
+
+
+
+
+ATTO UNICO.
+===========
+
+
+*Salottino elegante. Armi, coltelli e zaini da caccia
+alle pareti. Un pianoforte. Due porte laterali.
+Una porta in fondo, la quale, aperta, incornicia
+la veduta del parco verdeggiante.*
+
+
+SCENA I.
+--------
+
+GIULIO, *poi* IL SERVO.
+```````````````````````
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(solo, intento ad aggiustare i mazzolini di fiori
+freschi nei vasi di maiolica)* Come sono grazioso,
+io, in questa delicata operazione di fanciulla quindicenne!
+Ecco: la primavera mi dà delle gentilezze
+sopraffine, dei gusti squisiti e poetici, di cui
+sono io stesso meravigliato. Carino, questo insieme
+di rose tee e di mughetti! *(Al servo, che entra)* Che
+c'è, Domenico?
+
+.. class:: center
+
+| :small-caps:`Il Servo`
+
+La signora ha ordinato tutto il pranzo. Soltanto,
+desidera sapere se lei, come *entre-mets*, preferisce
+i fagiolini al pomodoro o i pisellini al burro.
+
+[pg!52]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(con severità)* Ma queste sono cose che non mi
+riguardano. Voi sapete, Domenico, che io mi rimetto
+al gusto del mio amico Federico. Andate
+piuttosto a interrogare lui. È lui, oramai, che si
+occupa delle cose di casa: ve l'ho detto tante
+volte! *(Si sdraia sopra una poltrona che è accanto
+al tavolino coi fiori.)*
+
+.. class:: center
+
+| :small-caps:`Il Servo`
+
+C'è poi il commesso del signor Compagnoni. Ha
+dei saggi di vino da mostrarle, per definire quell'affare.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(svogliato)* Dio buono, quale affare?
+
+.. class:: center
+
+| :small-caps:`Il Servo`
+
+Non so, mi ha detto così.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Sarà forse qualche affare che mi sta trattando
+il mio amico, quel caro Federico. Dite a lui tutto.
+*(Chiamando:)* Federico! Federico! *(Pausa.)* Starà
+in giardino. Domenico, andate a cercarlo, mostrategli
+i saggi di vino, chiedetegli se preferisce i fagiolini
+o non so che altro, e lasciatemi tranquillo.
+*(Sbadiglia)* Ah!
+
+.. class:: center
+
+| :small-caps:`Il Servo`
+
+.. class:: center
+
+*(va via.)*
+
+[pg!53]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(guardando di nuovo i fiori)* Carino, carino questo
+insieme di rose tee e di mughetti! Piacerà certamente
+anche a mia moglie: mughetti e rose
+tee: che sfumature! che armonia di colori! Oh la
+pittura e la botanica! Come le amo! Se avessi
+fatto il pittore, sarei diventato... il primo botanico
+del mondo!
+
+
+SCENA II.
+---------
+
+FEDERICO *e* GIULIO, *poi* IL SERVO.
+````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(entra dalla porta a destra, pian piano, guardando
+attorno con occhio inquieto, senza esser veduto
+da Giulio. Ha l'aria turbata, e dal suo volto
+traspare un misto di malinconia e di timidezza.
+Avvicinatosi a Giulio, gli mette lievemente una
+mano sulla spalla.)*
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(alzandosi, voltandosi, squadrandolo da capo a
+piedi, gli domanda, in un tono fra di fastidio e
+di sorpresa.)* Ohè, dico, che hai?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+.. class:: center
+
+*(dà un profondo sospiro.)*
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Che hai?
+
+[pg!54]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(facendo un gesto annunziante una deliberazione
+irremissibilmente presa, dice con voce ferma, che
+è, però, uno sforzo:)* Giulio, ti voglio parlare.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+A me?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Sì, a te.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Dio buono, parliamo sempre, noi, e parliamo
+tanto che la tua volontà non mi sembra mica una
+cosa spiccatamente nuova.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Giulio, da un mese io sono in casa tua....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+E puoi aggiungere, con legittimo orgoglio, che
+completi la mia arcadica felicità. Gli alberi fioriscono,
+gli augelli garriscono, le farfalle s'inseguono,
+il ruscelletto mormora, io mangio molto e bene,
+dormo dolcissimamente, posseggo una moglie che
+è un tesoretto, posseggo te che sei un amico carissimo:
+tutto sommato, io sono un uomo felice.
+Questa è la villeggiatura del mio corpo e del mio
+spirito! Metti all'occhiello questo bottoncino di
+rosa, *(glielo dà)* e va a passeggiare.
+
+[pg!55]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Ebbene, Giulio, io li ringrazio, ti ringrazio assai
+della cordiale ospitalità che hai voluto accordarmi....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Bada: ti permetto anche di ringraziarmi, ma non
+in questo tono flebile e sentimentale.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Sì, ti ringrazio vivamente, ma....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Ma?...
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Ho risoluto: me ne vado!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(scherzando)* E chi ti dà il diritto di prendere
+delle risoluzioni in casa mia?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+No, Giulio, me ne vado sul serio, e me ne vado
+subito. Vedi, sono venuto appunto a salutarti.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(guardandolo fisso)* O sei matto... e allora fai
+bene ad andartene, o non lo sei... e allora perchè
+te ne vai?
+
+[pg!56]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(dopo breve riflessione)* Senti: tu hai tanta amicizia
+per me ed hai tanto spirito per te, che io
+sarei colpevole e sarei uno sciocco se ti nascondessi
+la verità.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(in caricatura)* Il momento è solenne! Ti ascolto.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(dopo lunga reticenza)* Giulio, io... io... io amo
+tua moglie.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(con un soprassalto di paura, smettendo l' aria
+burlesca)* E me lo dici in faccia?!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(mortificato)* Ho creduto di darti una prova di
+lealtà, rivelandoti questa mia... solitaria sventura.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(alquanto commosso)* Te ne ringrazio! *(Avvicina
+due seggiole, e, molto amichevolmente, invita Federico
+a sedere. Siedono.)* *(Pausa.)* Dunque?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Dunque, me ne vado.
+
+[pg!57]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Eh! capisco i tuoi... i tuoi... i tuoi....
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Ragionamenti.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Ragionamenti! Oh! non c'è dubbio, giustissimi
+ragionamenti! Certo... non c'è altro mezzo... per....
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Per risparmiare al mio cuore mille sofferenze, e
+a te....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(con ansia)* A me?...
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(subito)*... lo scrupolo di avermele imposte.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Soltanto questo?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Soltanto.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(rinfrancato, stringendogli la mano)* Sei delicatissimo!
+
+[pg!58]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Credimi, ho lungamente lottato contro il nemico
+ch'è venuto a turbare la mia felicità, e con grande
+dolore ho dovuto confessare a me stesso di non
+averlo saputo vincere. Sulle prime, dopo pochi
+giorni che io ero qui, con voi, in questo villino
+fatto a posta per destare i più gentili desiderii, ho
+sperato, mi sono lusingato....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(titubante)* Come sarebbe a dire che ti sei lusingato?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Mi sono lusingato che il nuovo sentimento che
+nasceva in me, fosse un misto di gratitudine e di
+amichevole simpatia: fosse, cioè, una doverosa conseguenza
+delle cortesie usatemi da tua moglie. Ma,
+che vuoi! Altro che gratitudine! altro che amichevole
+simpatia! Il quadretto evidente della vostra
+felicità,... della vostra unione,... della vostra....
+come ho da dire?... della vostra intimità,... cagionava
+in me certi turbamenti, certe strane indicibili
+smanie, che sono andate, ogni giorno, aumentando,
+sino a diventare... un martirio.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Oh povero amico mio! Hai ragione, perbacco!...
+Hai ragione. Quella benedetta Clotilde è così carina!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Carina?! Qualche cosa di più!
+
+[pg!59]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(entusiasmandosi anche lui)* È graziosissima, ne
+convengo.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+E poi è una donna che non somiglia a nessun'altra!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Bravo! A nessun'altra!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+È mite ed è altera.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+È buona ed è furba....
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+È gran dama ed è bambina.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Ventidue anni, sai: non più di ventidue!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+È tanto ingenua ed è piena di fascini!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+E che fascini! Se tu sapessi!
+
+[pg!60]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(con calore)* Insomma, tu sei un uomo invidiabile,
+ed io... sono un infelice!
+
+*(Si alzano. Federico rimane in un canto, nervoso,
+preoccupato, con la testa bassa.)*
+
+.. class:: center
+
+| :small-caps:`Il Servo`
+
+*(entra, vede Federico, va difilato da lui, e gli
+domanda:)* Preferisce i fagiolini al pomodoro o i
+pisellini al burro?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(con uno sgarbo)* Oh! non mi seccate, adesso!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(al servo)* Andate via, Domenico. Abbiamo certi
+pisellini per la testa!...
+
+.. class:: center
+
+| :small-caps:`Il Servo`
+
+Vuol dire che oggi faremo a meno dell'*entre-mets*. *(Via.)*
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(guardando Federico, che è inquieto, gli si accosta
+con dolcezza)* Via, càlmati.... Tu te ne andrai.
+Io, capisci, mi annoierò molto senza di te.... Ah!
+si stava tanto bene in tre! Ma non c'è che fare!
+Non bisogna essere egoisti. Vedo anch'io che la
+tua dimora qui, fra noi due, sarebbe per te un
+[pg!61]
+vero supplizio. Finchè si trattasse di amare in silenzio
+e di serbare nel cuore questo affetto solingo
+e di frenarlo, reprimerlo, nasconderlo, eh! ti direi:
+fammi il piacere di rassegnarti e non mi lasciare;
+ma assistere alle tenerezze che la donna da te
+amata prodiga quotidianamente a suo marito, no!
+In verità, questo è superiore alle forze umane.
+Partenza, dunque, partenza! È doloroso per me,
+ma per te è necessario. Sei ammalato, e devi
+guarire.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(sospirando)* Lo spero! *(Commosso)* Mi permetti
+di abbracciarti?
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Fa pure.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(abbracciandolo)* Grazie!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(confidenzialmente)* E dimmi.... Tu, in qualche
+momento di allucinazione, di debolezza, di inconscienza — l'amore
+certe volte fa di questi scherzi! — non
+le hai fatto capire qualche cosa?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(senza esitare, sinceramente)* Mai!
+
+[pg!62]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(con pari ed inconsiderata sincerità)* Ti confesso
+che io, al tuo posto, avrei fatto qualche corbelleria.
+
+
+SCENA III.
+----------
+
+CLOTILDE, GIULIO, FEDERICO.
+```````````````````````````
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+.. class:: center
+
+*(entra dal giardino, canticchiando.)*
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(sottovoce a Federico)* Lei.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(continuando a parlare con Giulio, sforzandosi
+di sembrare disinvolto e alzando la voce)* Ah! già,
+sicuro... la giornata è bellissima.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+E tu, ingrato ai benefizi della natura, te ne vai
+proprio oggi.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Chi è, chi è che se ne va?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Io!
+
+[pg!63]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Lui.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Precisamente. Me ne vado... perchè....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+È naturale... se ne va... perchè... Eh?.... Cosa?...
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Avete l'aria di due collegiali che abbiano fatto
+insieme o che contino di fare una qualche scappatella....
+Questa partenza improvvisa, questo contegno
+misterioso.... Andiamo, su, giustificatevi.
+*(A Federico)* Perchè partite? *(A Giulio)* E tu, perchè
+lo lasci partire?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Affari.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Affari, mia cara....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Voi, signor Federico, avete degli affari? Si avvicina
+la fine del mondo! Il vostro affare più grave
+e più urgente è stato sempre mio marito.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Non ti dico di no....
+
+[pg!64]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Ed ora volete abbandonarlo! Volete condannare
+lui e me a un tête-à-tête campestre, continuo, inevitabile,
+che potrebbe minare il nostro amore coniugale?
+Un tête-à-tête obbligato e non mai interrotto
+può generare facilmente una pericolosa reazione.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Sicchè, per voi due io sono stato sinora....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Un'eccellente interruzione, e quindi un preservativo
+dell'amore coniugale.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(ridendo a malincuore)* Ah! Ah! un preservativo!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(secondandolo)* Ah! ah! un preservativo!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(fingendo gaiezza)* Signora Clotilde, permettetemi,
+io vado a preparare le mie valige.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Ma, in sostanza, che vi abbiamo fatto di male?
+
+[pg!65]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(spontaneamente)* Io, niente!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Allora io?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Voi, anzi....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Come «anzi»?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(impappinandosi)* Anzi... appunto... viceversa...
+ma non crediate... oh, vi pare!... tutt'altro!...
+Giulio, non è vero?
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+È verissimo!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+È verissimo che l'aria della campagna produce
+un triste effetto sui vostri nervi e sulla vostra intelligenza.
+Partite sì, partite e al più presto possibile!
+In queste condizioni diventereste insopportabile
+a voi stesso e a noi!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(convulso, fuori di sè)* Oh non temete: parto,
+fuggo, volo, e non mi vedrete mai più. Mi dimetto
+da preservativo.
+
+[pg!66]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Fate benissimo!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(piano a Giulio)* Lo vedi come mi tratta!... *(Via
+per la porta a destra.)*
+
+
+SCENA IV.
+---------
+
+GIULIO *e* CLOTILDE
+```````````````````
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(rimane come interdetto, a bocca aperta, guardando
+fisso la porta da cui è uscito Federico.)*
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(stupita, dopo qualche istante di silenzio, come
+se chiedesse spiegazione)* Giulio?
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(va fino alla porta per assicurarsi che Federico
+non possa udire; poi si accosta a Clotilde con circospezione
+e, fra il grave e il gioviale, le dice a
+voce bassa:)* Vuoi sapere la vera ragione della sua
+partenza?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Tu hai una voglia matta di dirmela.
+
+[pg!67]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+E te la dico subito. Federico è innamorato di te!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(sorpresa)* E sei tu, mio marito, che vieni a raccontarmi
+queste cose?!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+E perchè no? Che la gente s'innamori di te è
+un fatto che mi lusinga, e, francamente, non m'impensierisce....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Eh, bada: dicono così tutti i mariti ingannati.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Cattiva! Vorresti rendermi geloso, ma non cavi
+un ragno dal buco.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Lasciamo stare il ragno, e pensiamo un poco al
+tuo disgraziato e innamorato amico.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Poverino! Faceva pietà. Mi ha parlato delle lotte
+dell'animo suo, delle torture che noi due, senza
+sapere e senza volere, gli abbiamo inflitte, e finalmente
+ha concluso che solo separandosi da noi
+[pg!68]
+potrebbe ricuperare una certa tranquillità di spirito.
+Era commosso. Aveva le lagrime agli occhi....
+E ha voluto perfino abbracciarmi.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Perchè?
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Non lo so. Mi ha abbracciato.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(rammaricata)* Intanto, eccoci soli.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(rammaricato)* Senza un cane che ci tenga compagnia.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+E chi mi suonerà la sera... un approssimativo
+duetto del «Faust»,... un verosimile valtzer di
+Strauss... una canzonetta qualunque?
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+E con chi andrò a caccia, io?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+E con chi attaccheremo briga tutti e due?
+
+[pg!69]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Oh! davvero che questo innamoramento è stato
+un fulmine a ciel sereno.
+
+.. class:: center
+
+| :scene:`(Restano pensosi.)`
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Giulietto....
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Clotilduccia....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Un'idea!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Sentiamo.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Non c'è altro espediente che di gettare acqua
+sul fuoco. In mezz'ora, ci scommetto, io spegnerò
+la fiamma che strugge il tuo misero ed innocente
+amico, e renderò un servizio a lui e un altro a
+noi. Egli resterà.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+Ottimamente; ma, spegnere?!... Si fa presto
+a dire.
+
+[pg!70]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Una donna, che, senza averne nè l'intenzione
+nè il sospetto, è riuscita a farsi amare, può, molto
+facilmente riuscire, quando ne abbia la ferma volontà,
+a farsi odiare.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(invogliato)* Odiare?... Qui è inutile giungere
+sino all'odio. Basta l'indifferenza, basta uno stato...
+di tranquilla freddezza.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Basta l'indifferenza? Basta uno stato di tranquilla
+freddezza? Affidalo a me. Farò abbassare io
+la sua temperatura.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(contento, fregandosi le mani)* Sei un demonio,
+ma sei un angelo. *(Vedendo venire Federico, munito
+di valige)* Ecco l'uomo! Signora Clotilde, noi
+vi affidiamo il suo cuore e le sue valige. *(Via di
+corsa dal giardino.)*
+
+
+SCENA V.
+--------
+
+CLOTILDE *e* FEDERICO.
+``````````````````````
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(comparisce portando con ambo le mani due valige
+e il cappello. Incontrandosi con Clotilde, resta
+sconcertato e impacciato.)*
+
+[pg!71]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(incrociando le braccia)* Mio buon signor Federico,
+io sono qui.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(appena inchinandosi)* Signora....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(dopo una pausa)* Partite?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(mostrando le valige)* Non lo vedete? Parto.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+.. class:: center
+
+*(lo guarda e ride.)*
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(s'inchina di nuovo e sta per andare)* Signora....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Ih! che fretta. *(Federico si ferma.)* Venite qua.
+*(Poi, in tono imperativo)* Avvicinatevi, vi dico.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(riluttante, s'avvicina a lei.)* Eccomi.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(con un sorrisetto beffardo)* Dunque, è tutto un
+dramma questa vostra partenza repentina?
+
+[pg!72]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(trasalendo)* Un dramma?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Sì, un dramma complicato e terribile, che si
+riassume in queste cinque parole: mi amate e mi
+fuggite!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(ansioso, meravigliato, mortificato)* E chi ve l'ha
+detto?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Mio marito.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(lasciandosi cascar di mano le valige e il cappello)*
+Lui stesso! *(Resta trasecolato e confuso.)*
+
+.. class:: center
+
+| :scene:`(Pausa.)`
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Bisogna convenire che il caso è perfettamente
+nuovo, e che voi siete un tipo affatto speciale di
+persona innamorata. Sentite: come moglie del vostro
+fiducioso amico, via... vi lodo; ma come donna,
+in fede mia, vi biasimo.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Come moglie mi lodate e come donna mi biasimate....
+Non capisco.
+
+[pg!73]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Insomma, mi spiego meglio! Voi, amico, siete,
+non si può negare, ammirevolissimo: ma voi, uomo,
+eh! mio caro, voi uomo siete... deplorevole!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(sempre confuso)* Sono delle distinzioni sottili.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(canzonando)* Non mi pare. Sentiamo: definite la
+parola «uomo».
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(pensando molto)* «Uomo... Uomo....» Veramente
+non trovo una definizione precisa.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Me ne congratulo.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Aspettate.... Ne ho letta una pochi giorni fa, in
+un dizionario. *(Ricordando:)* «Uomo» termine generico,...
+che abbraccia anche la donna.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Voi, invece, abbracciate i mariti delle donne!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Io abbraccio i mariti delle donne?!
+
+[pg!74]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Mio marito, non lo avete forse voluto abbracciare?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Ah sì, perchè egli che conosce i vostri fascini,
+mi ha compianto, mi ha consigliato....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Vi siete fatto anche consigliare da lui?! È straordinario!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Siete squisitamente crudele!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+E voi, squisitamente grottesco!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Signora Clotilde, io non pretendo opporre nessuna
+resistenza agli assalti del vostro spirito. Io
+mi arrendo, io mi dichiaro vinto, e non vi chiedo
+che il permesso di partire.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Vi arrendete a me? Ma io mi affretto a cedervi
+a voi stesso. Vi dichiarate vinto? Ma voi non
+avete neanche combattuto. Mi chiedete il permesso
+di partire? Ma io non vi ho chiesto il sacrificio
+[pg!75]
+di restare. Voi potete andare o rimanere come meglio
+vi aggrada, senza che turbiate menomamente
+la pace domestica. Se poi credete di dovervi allontanare
+per salvar me da un pericolo, rassicuratevi:
+in ogni caso, mi avreste già salvata.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+No, signora Clotilde, voi non mi comprendete.
+Il pericolo è mio.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+E quale? Temete che mio marito vi sorprenda
+nell'atto di farmi una dichiarazione d'amore? Questo
+no, perchè, oramai, mi avete già fatto la vostra
+dichiarazione, affidandola, anzi, con gentile pensiero,
+alle cure stesse di mio marito. Temete di innamorarvi
+più di quanto siate innamorato? E questo
+nemmeno è possibile, perchè l'amore aumenta
+o dopo un trionfo o dopo un fiasco; ma voi, che
+non osate sperare un trionfo, non avete altro scopo
+che quello di eliminare il fiasco. Voi siete come...
+come una nave incagliata in un banco di arena:
+non potete più andare nè innanzi nè indietro, ma
+non potete essere capovolto dalla tempesta. *(Va a
+sedere sul divano.)*
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(le si siede accanto, riflettendo)*.... Eppure, signora
+Clotilde, voi, oggi, così atroce, così spietata
+verso di me, avete, nel vostro linguaggio, qualche
+cosa che... — vi parrà strano... — quasi preferisco
+alle gentili cortesie abituali....
+
+[pg!76]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Buon segno: è la medicina amara che ristora
+l'infermo.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Già! Io mi sento ristorato. Io mi sento meglio.
+E allora, ve ne prego, continuate, continuate a
+tormentarmi. Deridetemi, beffeggiatemi, sferzatemi
+senza misericordia, e quando, all'ultimo, mi avrete
+completamente guarito, io non vi chiederò più il
+permesso di partire, ma vi chiederò il permesso
+di restare! Ecco, se mi aveste trattato sempre così,
+se foste stata con me sempre scortese, ruvida, sarcastica,
+impertinente, io forse non mi sarei innamorato
+di voi.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(con inconsapevole eccitamento e con accento accelerato)*
+E avreste avuto torto, fanciullo che siete!
+La cortesia per la donna è una formalità, la dolcezza
+è una educazione, la bontà... è un'abitudine.
+Una donna che è con voi buona, dolce, cortese,
+non fa che rappresentare bene la sua parte di
+donna. Invece *(nervosa)* l'indizio di probabile amore
+è precisamente uno scatto di collera, un impeto
+di rabbia, un gesto o una frase di disprezzo, di alterigia,
+d'impazienza, insomma una nota stridula
+che dispiace e che piace, un frizzo, una malignità,
+una cattiveria e sinanche, qualche volta, una insolenza.
+*(Federico, ascoltando attentamente, le si
+è accostato a poco a poco, assai dappresso, e, in
+questo punto, ella, sempre più nervosa, sbuffando,
+si alza a un tratto e, cambiando tono, aggiunge:)*
+E adesso andate via, e non mi annoiate più!
+
+[pg!77]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(resta ancora seduto, contemplandola. Poi, lentamente
+si alza e va a raccogliere il cappello e le valige.)*
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Che fate?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+V'obbedisco.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(bruscamente)* Aspettate. Mi obbedirete più tardi.
+Per ora, cercate di rendervi utile, piacevole, divertente,
+o almeno tollerabile....
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(rimettendo a terra valige e cappello — con modestia)*
+Non sarà facile.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(con burbanza crudele non rispondente alla parola)*
+Facilissimo. *(Siede vicino al pianoforte e
+soggiunge con accento di comando:)* Sedete lì,
+molto lontano da me.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(siede nel punto della stanza più lontano da lei.)*
+
+.. class:: center
+
+| :scene:`(Pausa.)`
+
+[pg!78]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Ma voi non dite niente: non parlate, non ridete,
+non piangete, non suonate?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(subito)* Volete che suoni?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Sì: suonate.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+.. class:: center
+
+*(non si muove.)*
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Avete udito? Ho detto suonate.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Non posso.... Per suonare bisognerebbe che io
+m'avvicinassi a voi.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Dio buono, quante inutili esagerazioni!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(andando in fretta a sedere presso il piano)* Va
+bene, va bene! Siamo perfettamente d'accordo!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Suonate... il solito duetto del Faust.... Cioè, no:
+il duetto del Faust è eccessivamente sentimentale.
+
+[pg!79]
+Suonate piuttosto.... Suonate quello che volete,
+purchè suoniate male, molto male! Non ho nessuna
+voglia di commuovermi per la vostra musica.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Suonerò la serenata di Schubert. *(Comincia a
+suonare, stonando molto.)*
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(pestando con una mano la tastiera)* No, no! Così
+è troppo male.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(trattenendo la mano di Clotilde sulla tastiera)*
+Ma è la vostra mano che guasta la mia musica,
+ed io voglio punire questa perfida mano incantevole.
+*(Glie l'afferra e furiosamente gliela bacia
+più volte.)*
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(alzandosi con sdegno ostentato)* Signor Federico!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(umile e compunto, alzandosi anche lui)* Signora
+Clotilde!...
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Voi dimenticate i vostri doveri!
+
+[pg!80]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Certamente!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Voi abusate dell'ospitalità!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Certamente!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Voi tradite l'amicizia!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Certamente!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Voi siete un mostro!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Certamente!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+E ne siete pentito?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Neanche per sogno!
+
+.. class:: center
+
+| :scene:`(Pausa.)`
+
+[pg!81]
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Federico!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Clo... Clo....
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Cos'è «clo clo»?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+No.... Volevo dire: «Clo...tilde».
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(con curiosità genuina)* Si può sapere perchè mi
+amate?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(dopo qualche istante di riflessione)* Non lo so.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Ora ve lo dico io: perchè sono la moglie del
+vostro più caro amico. Credete a me, è una specie
+di fatalità. Moglie, marito ed amico intimo, ecco
+i tre personaggi che presentano una serie infinita
+di combinazioni comiche e tragiche, e che dànno
+alla storia dell'amore il maggior contingente quotidiano.
+Se si hanno dinanzi due amici indivisibili,
+l'uno celibe e l'altro ammogliato, si può ciecamente,
+[pg!82]
+novantanove volte su cento, invidiare il
+celibe e compiangere l'ammogliato. Notate: ho
+detto che si può invidiare il celibe novantanove
+volte su cento; non ho detto cento volte su cento,
+per rendere omaggio a voi, che nessuno, in fede
+mia, potrebbe invidiare. In fondo, gli è che siete
+una pasta eccezionale di amico intimo. E anzi...
+io scommetterei....
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Scommettereste?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Che andrete immediatamente a raccontare a mio
+marito....
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Che cosa?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Che mi avete baciata la mano... con una certa
+violenza.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+E se glielo raccontassi davvero?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Io... non me ne sorprenderei, ed egli... non vi
+crederebbe. Del resto, concludiamo. Si tratta o di
+[pg!83]
+confermare la disgraziata dichiarazione che mi
+avete fatta per mezzo di lui o di smentirla e... di
+riabilitarvi. Se dichiarate d'amarmi ancora, dovete
+partire; se dichiarate di non amarmi più, potete
+restare. Decidete, dunque, e rispondetemi subito:
+dopo il colloquio che abbiamo avuto, mi amate
+ancora o non mi amate più?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(raccapezzandosi e irradiandosi)* Ebbene... ho
+deciso. *(Entusiasticamente prorompe:)* Io non vi
+amo, non vi amo, non vi amo!
+
+
+SCENA VI.
+---------
+
+GIULIO, CLOTILDE *e* FEDERICO.
+``````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(entrando dal giardino e avanzandosi con gioia)*
+Che sento! Questo è un grido di vittoria.
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Vittoria completa! Guarigione istantanea! Egli
+resta.
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(con trasporto)* Ah sì! Resto!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Ti avevo promesso che gli avrei abbassata la
+temperatura? Bell'e fatto!
+
+[pg!84]
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(a Federico, canzonandolo)* Ti ha abbassata la
+temperatura?
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Sotto zero!
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(celiando, a Clotilde)* Ma, demonietto d'un dottore,
+come hai potuto guarirlo così presto?
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Eh, caro mio, noi donne sappiamo... dove mettere
+le mani.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(a Federico)* Te lo dicevo io! Che donnina è mia
+moglie!
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+Meravigliosa!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+Io non ho fatto che il mio dovere, e voi, signor
+Federico, andate subito a depositare di nuovo le
+valige nella vostra stanzetta.
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(afferrando le valige, tutto gaio e brillante)* Ma
+lo servo io! Lo servo io! *(Corre dentro.)*
+
+[pg!85]
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+*(profittando dell'assenza di Giulio, in un momento
+di slancio, dice appassionatamente a Clotilde:)*
+Clotilde, io vi adoro!
+
+.. class:: center
+
+| :small-caps:`Clotilde`
+
+*(con un rapido gesto, gli rimprovera l'imprudenza.)*
+
+.. class:: center
+
+| :small-caps:`Giulio`
+
+*(ritornando in fretta, sente la dichiarazione appassionata,
+ma, senza sospettare di nulla, esclama,
+ridendo:)* Ah burlone! burlone! Volevi farmi paura
+con quel tuo «vi adoro!»; ma non ci sei riuscito!
+No, non ci sei riuscito!
+
+.. class:: center
+
+| :small-caps:`Federico` *e* :small-caps:`Clotilde`
+
+*(celando l'imbarazzo e la sorpresa, si guardano
+tra loro e guardano Giulio.)*
+
+.. class:: center
+
+| :small-caps:`Federico`
+
+.. class:: center
+
+*(sforzandosi, finge di ridere della burletta.)*
+
+*(Poi ride anche Clotilde. Poi Giulio ride più
+forte di lei, Federico ride più forte di lei e di lui,
+e, ridendo ognuno più forte dell'altro, ridono clamorosamente
+ed esageratamente tutti e tre.)*
+
+.. vspace:: 2
+
+.. class:: center
+
+| :scene:`(Sipario.)`
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK LUI LEI LUI \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/37933
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
